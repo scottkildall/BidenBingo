@@ -1,0 +1,49 @@
+State,Filename,Prediction
+Alabama,usa_state_00.png,republican
+Alaska,usa_state_01.png,republican
+Arizona,usa_state_02.png,swing
+Arkansas,usa_state_03.png,republican
+California,usa_state_04.png,democrat
+Colorado,usa_state_05.png,swing
+Connecticut,usa_state_06.png,democrat
+Delaware,usa_state_07.png,democrat
+Florida,usa_state_08.png,swing
+Georgia,usa_state_09.png,swing
+Hawaii,usa_state_10.png,democrat
+Idaho,usa_state_11.png,republican
+Illinois,usa_state_12.png,democrat
+Indiana,usa_state_13.png,republican
+Iowa,usa_state_14.png,swing
+Kansas,usa_state_15.png,republican
+Kentucky,usa_state_16.png,republican
+Louisiana,usa_state_17.png,republican
+Maryland,usa_state_19.png,democrat
+Massachusetts,usa_state_20.png,democrat
+Michigan,usa_state_21.png,swing
+Minnesota,usa_state_22.png,democrat
+Mississippi,usa_state_23.png,republican
+Missouri,usa_state_24.png,republican
+Montana,usa_state_25.png,republican
+Nevada,usa_state_27.png,democrat
+New Hampshire,usa_state_28.png,democrat
+New Jersey,usa_state_29.png,democrat
+New Mexico,usa_state_30.png,democrat
+New York,usa_state_31.png,democrat
+North Carolina,usa_state_32.png,swing
+North Dakota,usa_state_33.png,republican
+Ohio,usa_state_34.png,swing
+Oklahoma,usa_state_35.png,republican
+Oregon,usa_state_36.png,democrat
+Pennsylvania,usa_state_37.png,democrat
+Rhode Island,usa_state_38.png,democrat
+South Carolina,usa_state_39.png,republican
+South Dakota,usa_state_40.png,republican
+Tennessee,usa_state_41.png,republican
+Texas,usa_state_42.png,republican
+Utah,usa_state_43.png,republican
+Vermont,usa_state_44.png,democrat
+Virginia,usa_state_45.png,democrat
+Washington,usa_state_46.png,democrat
+West Virginia,usa_state_47.png,republican
+Wisconsin,usa_state_48.png,swing
+Wyoming,usa_state_49.png,republican
